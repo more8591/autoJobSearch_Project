@@ -7,7 +7,11 @@ from selenium.webdriver.common.keys import Keys
 ##################
 #driver = webdriver.Firefox()
 
-siteOpt = ["1) LinkedIn", "2) Indeed", "3) Other"]
+siteOpt = [
+    "1) LinkedIn",
+    "2) Indeed",
+    "3) Other"
+]
 jobUrl = {
     "1": "https://www.linkedin.com/jobs/",
     "2": "https://www.indeed.com/"
