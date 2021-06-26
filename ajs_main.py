@@ -1,11 +1,15 @@
+import time
 import webbrowser
-import ajs_indeed
-import win32gui
+from pywin.tools import browser
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from selenium import webdriver
+from selenium import *
 from selenium.webdriver.common.keys import Keys
 
-##################
-#driver = webdriver.Firefox()
+
+options = webdriver.FirefoxOptions()
+options.add_argument("-headless")
+driver = webdriver.Firefox(options=options)
 
 siteOpt = [
     "1) LinkedIn",
@@ -50,7 +54,11 @@ def main_fcs():
     if jobSite in jobUrl:
         webbrowser.open(jobUrl[sel_jobSite])
 
-        ajs_indeed
+        time.sleep(10)
+        jobTitle_fill = driver.find_element_by_xpath('//input[@id="text-input-what"]')
+        jobTitle_fill.send_keys(jobTitle)
+
+        driver.close()
 
     else:
         print("NOTHING!")

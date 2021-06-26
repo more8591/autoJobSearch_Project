@@ -1,0 +1,128 @@
+1624698092521	geckodriver	INFO	Listening on 127.0.0.1:60821
+1624698095584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileytBdPA"
+1624699822064	geckodriver	INFO	Listening on 127.0.0.1:61145
+1624699825114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofile3ty9Ld"
+1624699825417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofile3ty9Ld\\search.json.mozlz4", (void 0)))
+1624699827225	Marionette	INFO	Listening on port 61153
+1624699827328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624699860930	Marionette	INFO	Stopped listening on port 61153
+1624699946149	geckodriver	INFO	Listening on 127.0.0.1:61203
+1624699949211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileUAgvC4"
+1624699949497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileUAgvC4\\search.json.mozlz4", (void 0)))
+1624699951109	Marionette	INFO	Listening on port 61211
+1624699951258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624699976197	Marionette	INFO	Stopped listening on port 61211
+1624700124983	geckodriver	INFO	Listening on 127.0.0.1:61259
+1624700128055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofilePZnwAc"
+*** You are running in headless mode.
+1624700128338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofilePZnwAc\\search.json.mozlz4", (void 0)))
+1624700129218	Marionette	INFO	Listening on port 61267
+1624700129625	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileVZ1uW8"
+*** You are running in headless mode.
+1624700289873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileVZ1uW8\\search.json.mozlz4", (void 0)))
+1624700290816	Marionette	INFO	Listening on port 61326
+1624700291141	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC closExiting due to channel error.
+e with reason=AbnormalShutdown
+Exiting due to channel error.
+1624700661765	geckodriver	INFO	Listening on 127.0.0.1:51379
+1624700664862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileucfwf6"
+*** You are running in headless mode.
+1624700665118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileucfwf6\\search.json.mozlz4", (void 0)))
+1624700665948	Marionette	INFO	Listening on port 51387
+1624700666418	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+nd" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileRwtHi4"
+*** You are running in headless mode.
+1624700782710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileRwtHi4\\search.json.mozlz4", (void 0)))
+1624700783704	Marionette	INFO	Listening on port 51472
+1624700783966	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+nd" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileA7Z7MR"
+*** You are running in headless mode.
+1624700906176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileA7Z7MR\\search.json.mozlz4", (void 0)))
+1624700907003	Marionette	INFO	Listening on port 51533
+1624700907450	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51655
+1624701525389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofilecsdOw6"
+*** You are running in headless mode.
+1624701525649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofilecsdOw6\\search.json.mozlz4", (void 0)))
+1624701526511	Marionette	INFO	Listening on port 51663
+1624701526934	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileitwben"
+1624701579109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileitwben\\search.json.mozlz4", (void 0)))
+1624701580746	Marionette	INFO	Listening on port 51739
+1624701580901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624701605126	Marionette	INFO	Stopped listening on port 51739
+1624701675178	geckodriver	INFO	Listening on 127.0.0.1:51799
+1624701678202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileUJ9WS7"
+1624701678485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileUJ9WS7\\search.json.mozlz4", (void 0)))
+1624701680115	Marionette	INFO	Listening on port 51807
+1624701680287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624701698491	Marionette	INFO	Stopped listening on port 51807
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624701717190	geckodriver	INFO	Listening on 127.0.0.1:51888
+1624701720246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileEazuzM"
+1624701720521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileEazuzM\\search.json.mozlz4", (void 0)))
+1624701722084	Marionette	INFO	Listening on port 51896
+1624701722317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624702172125	geckodriver	INFO	Listening on 127.0.0.1:52058
+1624702175199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-window-size=1920,1080" "-disable-gpu" "-disable-extensions" "-proxy-server=\'direct://" "-proxy-bypass-list=*" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileXyzmaW"
+*** You are running in headless mode.
+1624702175468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileXyzmaW\\search.json.mozlz4", (void 0)))
+1624702176360	Marionette	INFO	Listening on port 52066
+1624702176746	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+=1080" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileNPcTjB"
+*** You are running in headless mode.
+1624702516638	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileNPcTjB\\search.json.mozlz4", (void 0)))
+1624702517463	Marionette	INFO	Listening on port 52147
+1624702517909	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52253
+1624703144205	geckodriver	INFO	Listening on 127.0.0.1:52257
+1624703147282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileY9cM84"
+*** You are running in headless mode.
+1624703147558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Victor\\AppData\\Local\\Temp\\rust_mozprofileY9cM84\\search.json.mozlz4", (void 0)))
+1624703148421	Marionette	INFO	Listening on port 52265
+1624703148827	Marionette	WARN	TLS certificate errors will be ignored for this session
